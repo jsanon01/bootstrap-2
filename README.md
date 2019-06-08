@@ -1,2 +1,2 @@
 # bootstrap-2
-demo website related to DISPLAY FLEX
+DEMO WEBSITE RELATED TO DISPLAY FLEX
